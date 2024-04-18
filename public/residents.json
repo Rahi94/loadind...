@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Modern Family Home",
+    "segment_name": "Luxury",
+    "description": "A stunning modern family home with spacious rooms and beautiful garden. This contemporary residence features high ceilings, large windows, and an open floor plan, creating a bright and airy atmosphere. The kitchen is equipped with top-of-the-line appliances and ample storage space, making it perfect for entertaining guests or preparing family meals. The living room boasts a cozy fireplace, ideal for relaxing on chilly evenings. Outside, the landscaped garden offers a peaceful retreat with lush greenery and a sparkling swimming pool. Located in a prestigious neighborhood, this home provides luxury living at its finest.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "3000 sqft",
+    "location": "123 Main Street, Cityville",
+    "facilities": ["living room", "swimming pool", "kitchen"],
+    "image": "https://i.ibb.co/bR4sFvF/2151004068.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Cozy Cottage",
+    "segment_name": "Standard",
+    "description": "A charming cottage with rustic charm and a peaceful atmosphere. This cozy retreat offers a warm and inviting space, perfect for those seeking tranquility away from the hustle and bustle of city life. The interior features exposed wooden beams, a stone fireplace, and comfortable furnishings, creating a welcoming ambiance. The kitchen is compact yet functional, equipped with modern appliances and plenty of counter space for meal preparation. Outside, the cottage is surrounded by a picturesque garden with colorful flowers and a serene pond. Located in a quiet neighborhood, this cottage is ideal for a romantic getaway or a peaceful retreat.",
+    "price": "$800/month",
+    "status": "rent",
+    "area": "1200 sqft",
+    "location": "456 Oak Avenue, Townsville",
+    "facilities": ["living room", "garden"],
+    "image": "https://i.ibb.co/fdX59MF/3d-electric-car-building.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "Luxury Villa",
+    "segment_name": "Luxury",
+    "description": "An exquisite villa offering unparalleled luxury and elegance. This magnificent residence boasts opulent features and meticulous attention to detail throughout. The grand foyer welcomes you with a sweeping staircase and marble floors, setting the tone for the lavish interiors. The spacious living room is adorned with crystal chandeliers, plush furnishings, and panoramic views of the landscaped gardens. The gourmet kitchen is a chef's dream, equipped with state-of-the-art appliances and custom cabinetry. Outside, the expansive grounds feature a resort-style swimming pool, lush lawns, and a pergola-covered dining area, perfect for al fresco entertaining. Located in an exclusive gated community, this villa epitomizes sophisticated living at its finest.",
+    "price": "$3,500,000",
+    "status": "sale",
+    "area": "5000 sqft",
+    "location": "789 Palm Street, Villaville",
+    "facilities": ["living room", "swimming pool", "gym", "kitchen"],
+    "image": "https://i.ibb.co/ZJSCw8n/house-isolated-field.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "City Apartment",
+    "segment_name": "Standard",
+    "description": "A modern apartment located in the heart of the city with easy access to amenities. This stylish urban retreat offers contemporary living with sleek finishes and smart design elements. The open-concept layout maximizes space and natural light, creating a comfortable environment for everyday living. The kitchen features stainless steel appliances, granite countertops, and ample storage space, making it ideal for cooking enthusiasts. Floor-to-ceiling windows in the living room offer panoramic city views, while the private balcony provides a relaxing outdoor space. Building amenities include a fitness center, rooftop terrace, and concierge services, enhancing the urban lifestyle experience. With its prime location and modern conveniences, this apartment is perfect for those seeking city living at its best.",
+    "price": "$2,000/month",
+    "status": "rent",
+    "area": "1000 sqft",
+    "location": "1010 Highrise Avenue, Metropolis",
+    "facilities": ["living room", "gym"],
+    "image": "https://i.ibb.co/SfdzggC/istockphoto-1459671132-1024x1024.jpg"
+  },
+  {
+    "id": 5,
+    "estate_title": "Suburban Retreat",
+    "segment_name": "Standard",
+    "description": "A peaceful retreat nestled in the suburbs, perfect for a family getaway. This charming home offers a serene escape from the hustle and bustle of city life, surrounded by lush greenery and scenic views. The interior features cozy living spaces, including a spacious living room with a fireplace, a well-appointed kitchen with modern appliances, and comfortable bedrooms for restful nights. Outside, the expansive backyard provides ample space for outdoor activities, with a patio for al fresco dining and a play area for children. Located in a family-friendly neighborhood with top-rated schools and parks nearby, this suburban retreat is the perfect place to call home.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2500 sqft",
+    "location": "111 Forest Lane, Suburbia",
+    "facilities": ["living room", "garden"],
+    "image": "https://i.ibb.co/g9QXtNz/istockphoto-1447708518-1024x1024.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Riverside Mansion",
+    "segment_name": "Luxury",
+    "description": "A magnificent mansion situated along the riverbank, offering breathtaking views. This palatial estate exudes elegance and sophistication, with luxurious features and impeccable craftsmanship throughout. The grand foyer impresses with its marble floors, soaring ceilings, and a sweeping staircase, setting the stage for the opulent interiors. The expansive living spaces include a formal living room, banquet-sized dining room, and a gourmet kitchen with top-of-the-line appliances. The master suite is a private oasis, complete with a spa-like bathroom and a separate sitting area overlooking the river. Outside, the meticulously landscaped grounds feature a pool, spa, tennis court, and lush gardens, providing the ultimate setting for outdoor entertaining. With its prestigious address and unparalleled amenities, this riverside mansion offers a lifestyle of luxury and refinement.",
+    "price": "$5,000,000",
+    "status": "sale",
+    "area": "8000 sqft",
+    "location": "222 River Road, Rivertown",
+    "facilities": ["living room", "swimming pool", "gym", "kitchen", "study"],
+    "image": "https://i.ibb.co/x7JzKFZ/istockphoto-1455375812-1024x1024.jpg"
+  }
+]

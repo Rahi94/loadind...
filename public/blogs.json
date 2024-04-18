@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "name": "John Doe",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "The Ultimate Guide to Buying Your First Home",
+    "description": "Buying your first home is a significant milestone in life, but it can also be overwhelming. In this comprehensive guide, we'll walk you through everything you need to know to make the process smooth and successful. From understanding your budget and getting pre-approved for a mortgage to navigating the real estate market and negotiating the best deal, we've got you covered.",
+    "key_points": [
+      "Understanding your budget and financial readiness",
+      "Getting pre-approved for a mortgage",
+      "Navigating the real estate market",
+      "Negotiating the best deal",
+      "Avoiding common pitfalls and mistakes"
+    ],
+    "image": "https://i.ibb.co/bR4sFvF/2151004068.jpg"
+  },
+  {
+    "id": 2,
+    "author": {
+      "name": "Emily Smith",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "Top 10 Tips for Selling Your Home Quickly",
+    "description": "Selling your home can be a daunting task, but with the right strategies, you can ensure a quick and profitable sale. In this article, we'll share our top 10 tips for selling your home fast. From enhancing curb appeal and staging your home for maximum impact to pricing it competitively and leveraging online marketing tools, these tips will help you attract potential buyers and close the deal in no time.",
+    "key_points": [
+      "Enhancing curb appeal to attract buyers",
+      "Staging your home for maximum impact",
+      "Pricing it competitively",
+      "Leveraging online marketing tools",
+      "Working with a reputable real estate agent"
+    ],
+    "image": "https://i.ibb.co/fdX59MF/3d-electric-car-building.jpg"
+  },
+  {
+    "id": 3,
+    "author": {
+      "name": "Jessica Johnson",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "10 Must-Have Features for Your Dream Home",
+    "description": "When searching for your dream home, it's essential to prioritize features that align with your lifestyle and preferences. In this blog post, we'll highlight 10 must-have features that can turn an ordinary house into your dream home. From spacious kitchens and luxurious bathrooms to outdoor living spaces and smart home technology, these features will elevate your living experience.",
+    "key_points": [
+      "Spacious kitchens with modern appliances",
+      "Luxurious bathrooms with spa-like amenities",
+      "Outdoor living spaces for relaxation and entertainment",
+      "Smart home technology for convenience and efficiency",
+      "Energy-efficient features to reduce utility bills"
+    ],
+    "image": "https://i.ibb.co/ZJSCw8n/house-isolated-field.jpg"
+  },
+  {
+    "id": 4,
+    "author": {
+      "name": "Michael Williams",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "The Benefits of Investing in Real Estate",
+    "description": "Investing in real estate can offer numerous financial benefits, including passive income, tax advantages, and long-term appreciation. In this blog post, we'll explore the advantages of real estate investing and provide tips for getting started. Whether you're interested in rental properties, house flipping, or commercial real estate, there are opportunities to build wealth through real estate.",
+    "key_points": [
+      "Generating passive income through rental properties",
+      "Taking advantage of tax deductions and incentives",
+      "Building equity and wealth through property appreciation",
+      "Diversifying your investment portfolio with real estate",
+      "Creating opportunities for long-term financial security"
+    ],
+    "image": "https://i.ibb.co/XWmshcr/business-newspaper-on-wooden-background-600nw-381840133.jpg"
+  },
+  {
+    "id": 5,
+    "author": {
+      "name": "Sarah Martinez",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "How to Stage Your Home for a Successful Sale",
+    "description": "Staging your home is essential for making a positive first impression on potential buyers and maximizing its sale price. In this blog post, we'll share expert tips and techniques for staging your home effectively. From decluttering and depersonalizing to enhancing curb appeal and creating inviting spaces, these strategies will help you attract more buyers and sell your home faster.",
+    "key_points": [
+      "Decluttering to create a clean and spacious environment",
+      "Depersonalizing to allow buyers to envision themselves living in the home",
+      "Enhancing curb appeal with landscaping and exterior upgrades",
+      "Creating inviting spaces with neutral decor and furniture arrangement",
+      "Highlighting key features and selling points of the property"
+    ],
+    "image": "https://i.ibb.co/SfdzggC/istockphoto-1459671132-1024x1024.jpg"
+  },
+  {
+    "id": 6,
+    "author": {
+      "name": "David Brown",
+      "image": "https://impulse.aarafacademy.com/uploads/samples/g1.jpg"
+    },
+    "title": "The Future of Real Estate: Trends to Watch",
+    "description": "The real estate industry is constantly evolving, driven by technological advancements, demographic shifts, and changing consumer preferences. In this blog post, we'll explore emerging trends that are shaping the future of real estate. From virtual property tours and blockchain technology to sustainable development and co-living spaces, these trends will have a profound impact on the way we buy, sell, and live in properties.",
+    "key_points": [
+      "Virtual property tours for remote viewing and decision-making",
+      "Blockchain technology for secure and transparent transactions",
+      "Sustainable development practices to address environmental concerns",
+      "Co-living spaces to accommodate changing lifestyles and housing needs",
+      "Innovations in construction materials and building techniques"
+    ],
+    "image": "https://i.ibb.co/x7JzKFZ/istockphoto-1455375812-1024x1024.jpg"
+  }
+]
